@@ -1,7 +1,7 @@
 import glob
 import os.path
 from logzero import logger
-#from laims.limsdatabase import ReadCountInDb
+from laims.limsdatabase import ReadCountInDb
 from laims.flagstat import Flagstat
 from laims.build38realignmentdirectory import CramFile, InputJson
 
